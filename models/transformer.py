@@ -16,7 +16,7 @@
 """Transformer model."""
 
 import dataclasses
-from typing import Any, Callable, Optional, Type, Union
+from typing import Any, Callable, Optional, Union
 
 from absl import logging
 import chex
@@ -461,7 +461,7 @@ CallableTransformer = Union[
 
 def make_transformer(
     output_size: int,
-    transformer_module: Type[CallableTransformer],
+    transformer_module: type[CallableTransformer],
     return_all_outputs: bool = False,
     **transformer_kwargs,
 ) -> Any:
