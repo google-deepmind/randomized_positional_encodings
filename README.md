@@ -37,7 +37,7 @@ It is based on [JAX](https://jax.readthedocs.io) and [Haiku](https://dm-haiku.re
 |   ├── training.py                 - Training loop
 |   └── utils.py                    - Utility functions
 ├── README.md
-└── requirements.txt          - Dependencies
+└── requirements.txt                - Dependencies
 ```
 
 
