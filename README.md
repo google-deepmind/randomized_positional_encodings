@@ -1,7 +1,7 @@
 # Randomized Positional Encodings Boost Length Generalization of Transformers
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deepmind/randomized_positional_encodings/master/overview.png" alt="Overview figure"/>
+  <img src="https://raw.githubusercontent.com/deepmind/randomized_positional_encodings/master/overview.png" alt="Overview figure" width="50%"/>
 </p>
 
 This repository provides an implementation of our ACL 2023 paper [Randomized Positional Encodings Boost Length Generalization of Transformers](https://arxiv.org/abs/2305.16843).
